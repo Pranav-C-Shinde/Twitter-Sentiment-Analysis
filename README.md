@@ -56,7 +56,8 @@ Usage
 You can run the code in a Jupyter Notebook environment. To use the sentiment analysis model for predictions, you can load the exported model files and use the provided predict function. 
 
 
-
+Google Drive link for trained model and dataset:
+https://drive.google.com/drive/folders/11cETpFWx-U7S6QotxSzcs-jz2tSqChr3?usp=sharing
 
 
 
